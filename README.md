@@ -1,3 +1,3 @@
 #Tribute Page
 
-Tribute page for FreeCodeCamp curriculum.
+Tribute page for FreeCodeCamp curriculum...
